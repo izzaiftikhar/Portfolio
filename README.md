@@ -2,7 +2,7 @@
 
 Personal portfolio of **Izza Iftikhar**, a computer science student and Python backend developer who builds Flask applications, REST APIs and web platforms.
 
-**Live site:** _add your Vercel link here_
+**Live site:** izza-iftikhar-portfolio.vercel.app
 
 ## Features
 
